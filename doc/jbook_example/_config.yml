@@ -4,6 +4,7 @@ date: "2021-11-22"
 sphinx:
   config:
     bibtex_reference_style: author_year
+    bibtex_foot_reference_style: foot
 execute:
   execute_notebooks: force 
 bibtex_bibfiles:
